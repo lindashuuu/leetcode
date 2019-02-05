@@ -19,3 +19,9 @@ class Solution(object):
         
         
         return result
+
+'''
+    time complexity:
+        O(numRow^2)
+
+'''

@@ -19,6 +19,10 @@ class Solution(object):
                 position=i+1
         return position
 '''
-    from i to j , if i cannot reach j, then any inner points cannot reach j
+    from i to j , if i cannot reach j, then any inner points from i to j cannot reach j
+    
+    
     sum(gas)> sum(cost) means there will be a solution, so we can set total=0
+    
+    
 '''

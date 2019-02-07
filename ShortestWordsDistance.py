@@ -21,8 +21,8 @@ class Solution:
          
 
      [2      3  2]
-
-     
+    
+    O(N) one pass     
      only update shortest when there it meets different words
      
 

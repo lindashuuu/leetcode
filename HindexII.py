@@ -24,4 +24,7 @@ class Solution:
 '''
     left<right don't work for [0] (doesn't check one element)
 
+
+    O(logN) binary search
+
 '''

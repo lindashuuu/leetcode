@@ -11,3 +11,11 @@ class Solution:
                 break
         
         return result
+
+
+
+'''
+
+     O(NlogN) ==== sorted
+
+'''

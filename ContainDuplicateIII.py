@@ -20,6 +20,7 @@ class Solution:
         return False
 
 '''
+        O（N)
              1.   use // because / can have 0.5
              2.   be aware of w=0 (division by zero error)
              

@@ -14,7 +14,7 @@ class Solution:
 
 '''
                rest(not buy)
-                   \
+                       \
 buy(-price)       / rest\
                 /        \
                hold --- sold
